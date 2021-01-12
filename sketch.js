@@ -59,7 +59,7 @@ function setup() {
 	box23 = new Block(1090, 335, "LightGreen");
 	box24 = new Block(1120, 335, "LightGreen");
 	// Layer 3: 
-    box25 = new Block(1090, 285, "yellow");
+    box25 = new Block(1090, 295, "yellow");
     
     poly1 = new Polygon(200, 450, 25);
 
